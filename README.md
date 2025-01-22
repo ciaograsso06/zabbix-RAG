@@ -26,7 +26,7 @@ Before starting, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/zabbix-RAG.git
+   git clone https://github.com/ciaograsso06/zabbix-RAG.git
    cd zabbix-RAG
     ```
 
